@@ -50,6 +50,20 @@ The carry for EDM1 and EDZ2 are 10.5bps and 18.5 bps repectively. We can short E
 
 ## PITFALL OF THE CARRY TRADE
 
+One advantage of carry trade is that, the trade needs a certain threshold of adverse price movement before investors actually start losing money on the trade. But the apparant cushion can be misleading and cause bad result.  
+
+When market is rangebounded, investors may crowd into the same carry trades with high carry and low volatility (market's favorite carry trade). It's from investors' search for returns since rangebound markets don't offer many profit opportunity from directional movements.  
+
+A small spark from perhaps an unfavorable piece of news or a hedger compelled to initiate the opposite trade in the market can provide just the impetus needed to scare carry traders. The carry trade escape will press the market lower, until a large number of investors have abandoned it.  
+
+The key point is that, carry trade risk metric is almost always backward-looking. We should keep an eye on the market situation. Two clues can be used to better judge how crowded a trade is: 
+1. Position data where it's available. For U.S. market, the futures exchanges release weekly the positioning data;
+2. When correlations between these seemingly unrelated trades increase rapidly, it is a sign of the same global flows chasing the same carry trades.  
+
+Crowded trades tend to display muted moves with regard to favorable news or favorable movements in other markets but oversize moves in the face of negative news. This will tend to happen because there are already too many long positions in the market and there is little appetite to add more on the back of favorable news; unfavorable news, however, leads investors to the exits.  
+
+Although it may seem obvious, often such signs are more subtle but can be helpful in judging how long to hold carry trades and, one hopes, exit out of them before others try to.
+
 ## CARRY-EFFICIENT DIRECTIONAL TRADES
 
 ## RELATIVE VALUE TRADES
