@@ -13,6 +13,7 @@ tags:
 > * When the Fed is on hold, rates and curves may be rangebound for a long period
 > * Carry trades and relative value trades are important where the main motivation is **not to** take market view  
 
+$ e=m c^2 $
 
 ## CARRY TRADES
 
