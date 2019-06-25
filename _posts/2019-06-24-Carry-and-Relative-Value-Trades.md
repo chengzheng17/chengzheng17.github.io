@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Carry and Relative Value Trades
-subtitle:   Notes
+subtitle:   Interest Rate Market by Siddhartha Jha
 date:       2019-06-24
 author:     Zcc
 header-img: img/post-bg-cook.jpg
@@ -56,6 +56,8 @@ When market is rangebounded, investors may crowd into the same carry trades with
 
 A small spark from perhaps an unfavorable piece of news or a hedger compelled to initiate the opposite trade in the market can provide just the impetus needed to scare carry traders. The carry trade escape will press the market lower, until a large number of investors have abandoned it.  
 
+> For example in Jan 2009, Fed targeted to near zero and 2-year Treasury was nearly 1%. Rate was expected to remain there for an extended period of time due to structural weaknesses in the economy.
+
 The key point is that, carry trade risk metric is almost always backward-looking. We should keep an eye on the market situation. Two clues can be used to better judge how crowded a trade is: 
 1. Position data where it's available. For U.S. market, the futures exchanges release weekly the positioning data;
 2. When correlations between these seemingly unrelated trades increase rapidly, it is a sign of the same global flows chasing the same carry trades.  
@@ -66,9 +68,28 @@ Although it may seem obvious, often such signs are more subtle but can be helpfu
 
 ## CARRY-EFFICIENT DIRECTIONAL TRADES
 
+> * At times, a trading take advantage of market view could have negative carry
+> * "Carry-Efficient Trades" refers to trades with reduced negative carry
+
+Take Jan 2009 2-year Treasury for example, if a trader wanted to do the mirror trade, he would loss 20bps quarterly without market even moving. So trader wanted a trade: having exposure to 2-year Treasury yield rising, but reducing the negative carry.  
+
+In general, a criterion is to measure a trade's correlation with our market view. For example, instead of short outright 2-year Treasury, trade can be done by betting 2s/5s flatten.  
+> selling 2-year Treasury + buying 30% risk weight on the 5-year Treasury
+
 ## RELATIVE VALUE TRADES
 
+> Relative value trades intend to exploit dislocated market relationships
+
+Ideally, relative value trades are placed without taking views on the markets. It's statistical/fundamental driven. The goal is to find a relationship between two or more market variables that is away from its long-run average.  
+> * bond A @5% yield, bond B @4.5 yield, the spread is 50bps
+> * Average spread is 20bps and historical spread volatility is very low
+> * long bond A and short bond B
+
+As for pitfalls, it's similar to carry trades. If the trade is crowded, a rapid exit by investors may only cause the dislocation to get worse. If dislocated relationship do not revert back for long periods of time, it indicates the changes of underlying fundamentals, causing a failed relative value trades. 
+
 ## SETTING UP RELATIVE VALUE TRADES
+
+page 185
 
 ## TREASURY BOND RELATIVE VALUE-PAR CURVE
 
