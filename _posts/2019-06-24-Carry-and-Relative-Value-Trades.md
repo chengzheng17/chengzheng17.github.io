@@ -99,8 +99,7 @@ The important point here is the thought process behind selection of the relative
 > long 5-year, short 2-year & 5-year or short 5-year, long 2-year & 5-year  
 > 5-year is **body**, 2-year & 5-year are **wings**
 
-p185
-
+Many techniques are used to weight body and wings, in order to protect trades from unwanted market exposure. 
 
 ## TREASURY BOND RELATIVE VALUE-PAR CURVE
 
