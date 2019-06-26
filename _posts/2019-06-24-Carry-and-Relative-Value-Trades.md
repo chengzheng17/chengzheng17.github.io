@@ -89,7 +89,18 @@ As for pitfalls, it's similar to carry trades. If the trade is crowded, a rapid 
 
 ## SETTING UP RELATIVE VALUE TRADES
 
-page 185
+> **Pure relative value**: trades with little broad market exposure
+
+Investors should weight the different instruments by ensuring that weights reflect the relative volatility and sensitivity of each instrument, in such way that there's minimal exposure to the broader market.  
+
+The important point here is the thought process behind selection of the relative value trade, calculating appropriate weights for the legs, and backtesting the relative value strategies. Regression can be used to determine market variable exposures (beta). 
+
+> For a common example, the U.S. Treasury butterfly trades  
+> long 5-year, short 2-year & 5-year or short 5-year, long 2-year & 5-year  
+> 5-year is **body**, 2-year & 5-year are **wings**
+
+
+
 
 ## TREASURY BOND RELATIVE VALUE-PAR CURVE
 
