@@ -10,9 +10,22 @@ tags:
     - Fixed Income
 ---
 
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
+
 > * When the Fed is on hold, rates and curves may be rangebound for a long period
 > * Carry trades and relative value trades are important where the main motivation is **not to** take market view  
 
+$ e = mc^2 $
 
 ## CARRY TRADES
 
