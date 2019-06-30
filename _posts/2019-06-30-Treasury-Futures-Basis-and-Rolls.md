@@ -10,3 +10,8 @@ tags:
     - Fixed Income
 ---
 
+> Bond futures really scares shit out of me
+
+## THE FUTURES DELIVERY OPTION
+## CALCULATING THE DELIVERY OPTION VALUE
+## OPTION-ADJUSTED AND EMPIRICAL DURAION
