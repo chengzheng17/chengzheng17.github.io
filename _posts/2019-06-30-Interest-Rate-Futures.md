@@ -58,6 +58,3 @@ Based on this assertion, we could get implied yield of the CTD, with the forward
 > * ***implied forward price*** = futures price $\times$ conversion factor + accrued interest
 > * forward yield can be calculated using the price/yield formula
 
-
-
-
