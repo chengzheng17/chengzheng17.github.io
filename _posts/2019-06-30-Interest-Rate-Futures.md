@@ -49,7 +49,9 @@ In the fixed income space, investors are seldom talking about notional and price
 Since using a basket of bonds, but futures contract only has one price, conversion factor is required for each deliverable bonds, to convert price between each bonds and standard bonds (6% yield). So **coupon differences** are no longer relevant. 
 > * futures invoice price = futures price $\times$ conversion factor + accrued interest
 > * It indicates buyer how much to pay *in case* this bond is delivered
-> * $min{forward price of bond_i \div conversion factor}$ is the "fair" futures price
+> * min(forward price of bond in the basket $\div$ conversion factor) is the **"fair" futures price**
+
+
 
 
 
