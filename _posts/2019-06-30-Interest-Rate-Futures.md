@@ -51,10 +51,12 @@ Since using a basket of bonds, but futures contract only has one price, conversi
 > * It indicates buyer how much to pay *in case* this bond is delivered
 > * min(forward price of bond in the basket $\div$ conversion factor) is the **"fair" futures price**
 
+The ***cheapest to deliver bond ("CTD")*** in the basket will be delivered into the contract, which means the futures price will track the bond with the lowest
+forward price, after adjusting for conversion factor. 
 
-
-
-
+Based on this assertion, we could get implied yield of the CTD, with the forward start date as the first delivery date of the contract and the maturity date as the CTD's maturity
+> * ***implied forward price*** = futures price $\times$ conversion factor + accrued interest
+> * forward yield can be calculated using the price/yield formula
 
 
 
