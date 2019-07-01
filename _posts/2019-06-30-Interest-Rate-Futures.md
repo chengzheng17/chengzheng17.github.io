@@ -40,6 +40,20 @@ When trading Treasury futures, no up-front real Treasury is needed. In order to 
 > Quoted in 32nds, e.g. 110-16+ = <span>$</span>100 + <span>$</span>16.5/32  
 
 In the fixed income space, investors are seldom talking about notional and price increments, although they're useful to know for determining contract sizes. What investors care about is whether the yield can exceed NPV, how the profit will be eroded due to yield changes (duration/ convexity).
-> To accurately position trades in futures, the metric needs to be risk exposure to rates, not notional.
+> To accurately position trades in futures, the metric needs to be **risk exposure to rates**, not notional.  
+
+> Delivery process: 
+> * For the 10-year, 30-year, and ultra-long contracts, first and last business day of the delivery month
+> * For the 2-year and 5-year contracts, first business day of the delivery month, three business days into to next month, allow newly auctioned bonds at the end of the month to be eligible for the delivery basket. 
+
+Since using a basket of bonds, but futures contract only has one price, conversion factor is required for each deliverable bonds, to convert price between each bonds and standard bonds (6% yield). So **coupon differences** are no longer relevant. 
+> * futures invoice price = futures price $\times$ conversion factor + accrued interest
+> * It indicates buyer how much to pay *in case* this bond is delivered
+> * $min{forward price of bond_i \div conversion factor}$ is the "fair" futures price
+
+
+
+
+
 
 
