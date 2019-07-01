@@ -36,8 +36,8 @@ In the U.S. fixed income space, there're two majot futures contracts: ***Eurodol
 When trading Treasury futures, no up-front real Treasury is needed. In order to mitigate the effect of a bottleneck if all sellers tried to deliver the same bond at the same time, CME designed the machanism to allow to delivery a basket of bonds as followed: 
 
 > Deliverable basket of ulter-long contract is a subset of 30-year's  
-> Notional: $100,000 for each, with 2y contract having $200,000  
-> Quoted in 32nds, e.g. 110-16+ = $100 + $16.5/32  
+> Notional: \$100,000 for each, with 2y contract having \$200,000  
+> Quoted in 32nds, e.g. 110-16+ = \$100 + \$16.5/32  
 
 In the fixed income space, investors are seldom talking about notional and price increments, although they're useful to know for determining contract sizes. What investors care about is whether the yield can exceed NPV, how the profit will be eroded due to yield changes (duration/ convexity).
 > To accurately position trades in futures, the metric needs to be risk exposure to rates, not notional.
