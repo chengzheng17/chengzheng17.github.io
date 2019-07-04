@@ -58,3 +58,26 @@ Based on this assertion, we could get implied yield of the CTD, with the forward
 > * ***implied forward price*** = futures price $\times$ conversion factor + accrued interest
 > * forward yield can be calculated using the price/yield formula
 
+The next concept help to determine the CTD is ***implied repo rate***
+> ***implied repo rate*** = (sales price - purchase price)/purchase price $\times$ 360/num days, as of valuation date  
+> num days is between valuation date and deliver date 
+
+It can be thought of as the synthetic financing rate of the bond in the futures contract, as opposed to the actual financing rate in the repo market. The difference between the futures and bond price is the carry of the bond. 
+> * long spot bond and short future contract
+> * future yield - spot yield = carry = coupon - implied rate
+
+The implied repo rate is one way to determine the attractiveness of a bond versus a futures contract. Another metric used to determine the relationship between bonds and futures is the ***basis***. The basis, more fully known as the gross basis, is calculated as:
+> gross basis = clean/cash price - futures price $\times$ conversion factor
+
+We could dig into component of basis. The first one is carry, since the basis is the difference between a futures price and a clean/cash price. Besides, deliery option also has value, since in the market, choices are not granted for free. The futures price is *lower* than it would be without delivery option.
+> Gross basis = carry + delivery option value (BNOC)  
+> Basis net of carry (BNOC) = gross basis - carry
+
+The contract seller will deliver the bond with the smallest BNOC, because sellers don't want to pay for option. Also in the market, trading futures versus cash is a segment of the market in itself, known as ***basis trading***. 
+> basis trading: trading the BNOC against the trader's own estimation of the delivery option value
+
+
+
+
+
+
