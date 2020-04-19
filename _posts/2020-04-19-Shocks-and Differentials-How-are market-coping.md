@@ -5,7 +5,7 @@ subtitle:   "Shocks and Differentials: How are market coping"
 date:       2020-04-19
 author:     Zcc
 header-img: img/post_black.jpeg
-catalog: true
+catalog: false
 tags:
     - Market
     - Energy
