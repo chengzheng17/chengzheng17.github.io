@@ -4,7 +4,7 @@ title:      "宏观冲击与原油价差变动：市场如何进行调节"
 subtitle:   "Shocks and Differentials: How are market coping"
 date:       2020-04-19
 author:     Zcc
-header-img: img/04-20-OIES-shocks-and-diff/post_head.jpg
+header-img: img/04-20-OIES-shocks-and-diff/post-head.jpg
 catalog: false
 tags:
     - Market
