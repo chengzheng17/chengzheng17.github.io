@@ -14,7 +14,9 @@ tags:
 
 > OIES的这篇论文使用经济学101的方式解释了在Covid-19和OPEC+谈判失败，市场供需严重失衡的情况下，市场价格和结构如何调整从而反映真实的基本面。
 >
-> 作者：Bassam Fattouh, Adi Imsirovic	原文链接：https://www.oxfordenergy.org/publications/shocks-and-differentials-how-are-the-oil-markets-coping/?v=0f177369a3b7
+> 作者：Bassam Fattouh, Adi Imsirovic	
+>
+> 原文链接：[OIES](https://www.oxfordenergy.org/publications/shocks-and-differentials-how-are-the-oil-markets-coping/?v=0f177369a3b7)
 
 原油市场及原油储运设施正在经受前所未有的“压力测试”：防控Covid-19造成的需求萎缩和3月6日OPEC+谈判失败为能源市场的未来蒙上一层阴影。虽然过去几周Brent和WTI等基准期货价格的大幅下跌，但期货/金融市场的价格水平以及波动性并未完全反映出原油生产和消费市场中的潜在危机和供需严重失衡。为了分析这些失衡，我们需要观察原油differentials和spread的价格变化。在极端的市场条件下，正如我们最近观察到的，differentials 会进行比较大的调整从而反映现货市场的基本面变化和贸易商交易情绪的变化。几周期货价格表现出极端的高波动性（参见图1和图2），而differentials和spread为了反应市场的基本面，有着更为剧烈的波动，远远超越之前几个月的价格表现。期货价格与现货之间的脱节表现说明市场已经陷入困境。
 
