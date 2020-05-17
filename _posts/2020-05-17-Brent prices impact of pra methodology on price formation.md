@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "布伦特原油：价格评估方法如何影响实际价格"
-subtitle:   "Brent prices: impact of pra methodology on price formation"
+subtitle:   "Brent prices: Impact of PRA methodology on price formation"
 date:       2020-05-17
 author:     Zcc
 header-img: img/04-20-OIES-brent price formation and PRA/post-head.jpg
