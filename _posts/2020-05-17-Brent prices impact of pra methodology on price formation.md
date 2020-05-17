@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "布伦特价格：价格评估方法如何影响实际价格"
+title:      "布伦特原油：价格评估方法如何影响实际价格"
 subtitle:   "Brent prices: impact of pra methodology on price formation"
 date:       2020-05-17
 author:     Zcc
